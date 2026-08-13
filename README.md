@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/prajapati-mahi/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/prajapati-mahi/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/prajapati-mahi/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prajapati-mahi/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prajapati-mahi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/prajapati-mahi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/prajapati-mahi/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/prajapati-mahi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/prajapati-mahi/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -106,8 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prajapati-mahi/LeetCode/tree/master/0020-valid-parentheses) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/prajapati-mahi/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prajapati-mahi/LeetCode/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/prajapati-mahi/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
