@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/prajapati-mahi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/prajapati-mahi/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/prajapati-mahi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/prajapati-mahi/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/prajapati-mahi/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/prajapati-mahi/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prajapati-mahi/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prajapati-mahi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/prajapati-mahi/LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/prajapati-mahi/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/prajapati-mahi/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prajapati-mahi/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/prajapati-mahi/LeetCode/tree/master/1598-crawler-log-folder) |
