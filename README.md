@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/prajapati-mahi/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/prajapati-mahi/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prajapati-mahi/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/prajapati-mahi/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/prajapati-mahi/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 ## Sorting
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/prajapati-mahi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajapati-mahi/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/prajapati-mahi/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## String
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/prajapati-mahi/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prajapati-mahi/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Simulation
 |  |
 | ------- |
