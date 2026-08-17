@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/prajapati-mahi/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/prajapati-mahi/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/prajapati-mahi/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2942-find-words-containing-character](https://github.com/prajapati-mahi/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
@@ -187,4 +188,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/prajapati-mahi/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/prajapati-mahi/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 <!---LeetCode Topics End-->
