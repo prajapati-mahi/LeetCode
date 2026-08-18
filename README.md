@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prajapati-mahi/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prajapati-mahi/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/prajapati-mahi/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/prajapati-mahi/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/prajapati-mahi/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/prajapati-mahi/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2942-find-words-containing-character](https://github.com/prajapati-mahi/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/prajapati-mahi/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
 | ------- |
