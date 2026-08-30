@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/prajapati-mahi/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/prajapati-mahi/LeetCode/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prajapati-mahi/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2544-alternating-digit-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/prajapati-mahi/LeetCode/tree/master/2652-sum-multiples) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prajapati-mahi/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/prajapati-mahi/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/prajapati-mahi/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/prajapati-mahi/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/prajapati-mahi/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/prajapati-mahi/LeetCode/tree/master/2810-faulty-keyboard) |
