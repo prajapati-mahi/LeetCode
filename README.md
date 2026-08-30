@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/prajapati-mahi/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/prajapati-mahi/LeetCode/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prajapati-mahi/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prajapati-mahi/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2544-alternating-digit-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/prajapati-mahi/LeetCode/tree/master/2652-sum-multiples) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/prajapati-mahi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/prajapati-mahi/LeetCode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1051-height-checker](https://github.com/prajapati-mahi/LeetCode/tree/master/1051-height-checker) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prajapati-mahi/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajapati-mahi/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prajapati-mahi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1598-crawler-log-folder](https://github.com/prajapati-mahi/LeetCode/tree/master/1598-crawler-log-folder) |
