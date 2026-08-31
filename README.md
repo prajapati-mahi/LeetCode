@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prajapati-mahi/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prajapati-mahi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/prajapati-mahi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/prajapati-mahi/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajapati-mahi/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/prajapati-mahi/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prajapati-mahi/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/prajapati-mahi/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/prajapati-mahi/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prajapati-mahi/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/prajapati-mahi/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1446-consecutive-characters](https://github.com/prajapati-mahi/LeetCode/tree/master/1446-consecutive-characters) |
 | [1556-thousand-separator](https://github.com/prajapati-mahi/LeetCode/tree/master/1556-thousand-separator) |
 | [1598-crawler-log-folder](https://github.com/prajapati-mahi/LeetCode/tree/master/1598-crawler-log-folder) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/prajapati-mahi/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/prajapati-mahi/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prajapati-mahi/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
