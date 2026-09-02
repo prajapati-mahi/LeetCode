@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajapati-mahi/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prajapati-mahi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/prajapati-mahi/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1550-three-consecutive-odds](https://github.com/prajapati-mahi/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1598-crawler-log-folder](https://github.com/prajapati-mahi/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/prajapati-mahi/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/prajapati-mahi/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
