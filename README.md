@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prajapati-mahi/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/prajapati-mahi/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3978-unique-middle-element](https://github.com/prajapati-mahi/LeetCode/tree/master/3978-unique-middle-element) |
 ## Sorting
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/prajapati-mahi/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/prajapati-mahi/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [3978-unique-middle-element](https://github.com/prajapati-mahi/LeetCode/tree/master/3978-unique-middle-element) |
 ## Simulation
 |  |
 | ------- |
