@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/prajapati-mahi/LeetCode/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/prajapati-mahi/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/prajapati-mahi/LeetCode/tree/master/0507-perfect-number) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/prajapati-mahi/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prajapati-mahi/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prajapati-mahi/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prajapati-mahi/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/prajapati-mahi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/prajapati-mahi/LeetCode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1051-height-checker](https://github.com/prajapati-mahi/LeetCode/tree/master/1051-height-checker) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/prajapati-mahi/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prajapati-mahi/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajapati-mahi/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prajapati-mahi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prajapati-mahi/LeetCode/tree/master/0022-generate-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/prajapati-mahi/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
