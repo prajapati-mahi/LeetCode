@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/prajapati-mahi/LeetCode/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/prajapati-mahi/LeetCode/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/prajapati-mahi/LeetCode/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/prajapati-mahi/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/prajapati-mahi/LeetCode/tree/master/0507-perfect-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/prajapati-mahi/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prajapati-mahi/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prajapati-mahi/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/prajapati-mahi/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prajapati-mahi/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0504-base-7](https://github.com/prajapati-mahi/LeetCode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/prajapati-mahi/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/prajapati-mahi/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/prajapati-mahi/LeetCode/tree/master/0917-reverse-only-letters) |
