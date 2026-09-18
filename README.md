@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/prajapati-mahi/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/prajapati-mahi/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prajapati-mahi/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/prajapati-mahi/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/prajapati-mahi/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2315-count-asterisks](https://github.com/prajapati-mahi/LeetCode/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/prajapati-mahi/LeetCode/tree/master/2390-removing-stars-from-a-string) |
