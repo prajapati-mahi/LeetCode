@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/prajapati-mahi/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/prajapati-mahi/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/prajapati-mahi/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3498-reverse-degree-of-a-string](https://github.com/prajapati-mahi/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/prajapati-mahi/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3941-password-strength](https://github.com/prajapati-mahi/LeetCode/tree/master/3941-password-strength) |
 ## Bracket Sequences
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/prajapati-mahi/LeetCode/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prajapati-mahi/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/prajapati-mahi/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/prajapati-mahi/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
