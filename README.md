@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajapati-mahi/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/prajapati-mahi/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prajapati-mahi/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/prajapati-mahi/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/prajapati-mahi/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Recursion
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/prajapati-mahi/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1952-three-divisors](https://github.com/prajapati-mahi/LeetCode/tree/master/1952-three-divisors) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2396-strictly-palindromic-number](https://github.com/prajapati-mahi/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/prajapati-mahi/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/prajapati-mahi/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/prajapati-mahi/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/prajapati-mahi/LeetCode/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/prajapati-mahi/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Minimax
 |  |
 | ------- |
