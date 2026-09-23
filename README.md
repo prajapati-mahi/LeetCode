@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/prajapati-mahi/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/prajapati-mahi/LeetCode/tree/master/0260-single-number-iii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/prajapati-mahi/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/prajapati-mahi/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prajapati-mahi/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajapati-mahi/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0164-maximum-gap](https://github.com/prajapati-mahi/LeetCode/tree/master/0164-maximum-gap) |
 | [0219-contains-duplicate-ii](https://github.com/prajapati-mahi/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0260-single-number-iii](https://github.com/prajapati-mahi/LeetCode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/prajapati-mahi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/prajapati-mahi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/prajapati-mahi/LeetCode/tree/master/0682-baseball-game) |
