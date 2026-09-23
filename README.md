@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajapati-mahi/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0164-maximum-gap](https://github.com/prajapati-mahi/LeetCode/tree/master/0164-maximum-gap) |
 | [0219-contains-duplicate-ii](https://github.com/prajapati-mahi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/prajapati-mahi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/prajapati-mahi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/prajapati-mahi/LeetCode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/prajapati-mahi/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prajapati-mahi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prajapati-mahi/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -367,4 +369,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/prajapati-mahi/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/prajapati-mahi/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/prajapati-mahi/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/prajapati-mahi/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
