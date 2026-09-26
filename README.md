@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/prajapati-mahi/LeetCode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/prajapati-mahi/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/prajapati-mahi/LeetCode/tree/master/0507-perfect-number) |
+| [1025-divisor-game](https://github.com/prajapati-mahi/LeetCode/tree/master/1025-divisor-game) |
 | [1185-day-of-the-week](https://github.com/prajapati-mahi/LeetCode/tree/master/1185-day-of-the-week) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/prajapati-mahi/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prajapati-mahi/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/prajapati-mahi/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/prajapati-mahi/LeetCode/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/prajapati-mahi/LeetCode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/prajapati-mahi/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Minimax
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/prajapati-mahi/LeetCode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/prajapati-mahi/LeetCode/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/prajapati-mahi/LeetCode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/prajapati-mahi/LeetCode/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prajapati-mahi/LeetCode/tree/master/0022-generate-parentheses) |
+| [1025-divisor-game](https://github.com/prajapati-mahi/LeetCode/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
 | ------- |
