@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/prajapati-mahi/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prajapati-mahi/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/prajapati-mahi/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prajapati-mahi/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prajapati-mahi/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3894-traffic-signal-color](https://github.com/prajapati-mahi/LeetCode/tree/master/3894-traffic-signal-color) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/prajapati-mahi/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2595-number-of-even-and-odd-bits](https://github.com/prajapati-mahi/LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prajapati-mahi/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/prajapati-mahi/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
 | ------- |
