@@ -438,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajapati-mahi/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/prajapati-mahi/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
