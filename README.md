@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/prajapati-mahi/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3701-compute-alternating-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prajapati-mahi/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/prajapati-mahi/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/prajapati-mahi/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3978-unique-middle-element](https://github.com/prajapati-mahi/LeetCode/tree/master/3978-unique-middle-element) |
 ## Sorting
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/prajapati-mahi/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2733-neither-minimum-nor-maximum](https://github.com/prajapati-mahi/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/prajapati-mahi/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/prajapati-mahi/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/prajapati-mahi/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/prajapati-mahi/LeetCode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/prajapati-mahi/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |
 | ------- |
