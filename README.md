@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/prajapati-mahi/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/prajapati-mahi/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/prajapati-mahi/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/prajapati-mahi/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/prajapati-mahi/LeetCode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/prajapati-mahi/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
