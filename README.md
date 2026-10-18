@@ -464,4 +464,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/prajapati-mahi/LeetCode/tree/master/0620-not-boring-movies) |
 | [1683-invalid-tweets](https://github.com/prajapati-mahi/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/prajapati-mahi/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/prajapati-mahi/LeetCode/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
