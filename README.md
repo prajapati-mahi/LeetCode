@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prajapati-mahi/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajapati-mahi/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1395-count-number-of-teams](https://github.com/prajapati-mahi/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prajapati-mahi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/prajapati-mahi/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1550-three-consecutive-odds](https://github.com/prajapati-mahi/LeetCode/tree/master/1550-three-consecutive-odds) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prajapati-mahi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/prajapati-mahi/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/prajapati-mahi/LeetCode/tree/master/1025-divisor-game) |
+| [1395-count-number-of-teams](https://github.com/prajapati-mahi/LeetCode/tree/master/1395-count-number-of-teams) |
 ## Backtracking
 |  |
 | ------- |
@@ -478,4 +480,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/prajapati-mahi/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/prajapati-mahi/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/prajapati-mahi/LeetCode/tree/master/1907-count-salary-categories) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/prajapati-mahi/LeetCode/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/prajapati-mahi/LeetCode/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
