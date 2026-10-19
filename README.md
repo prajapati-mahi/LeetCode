@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/prajapati-mahi/LeetCode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/prajapati-mahi/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prajapati-mahi/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3833-count-dominant-indices](https://github.com/prajapati-mahi/LeetCode/tree/master/3833-count-dominant-indices) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prajapati-mahi/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prajapati-mahi/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3833-count-dominant-indices](https://github.com/prajapati-mahi/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3903-smallest-stable-index-i](https://github.com/prajapati-mahi/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3978-unique-middle-element](https://github.com/prajapati-mahi/LeetCode/tree/master/3978-unique-middle-element) |
 ## Sorting
