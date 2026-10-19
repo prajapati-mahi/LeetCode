@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prajapati-mahi/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prajapati-mahi/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/prajapati-mahi/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1925-count-square-sum-triples](https://github.com/prajapati-mahi/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/prajapati-mahi/LeetCode/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/prajapati-mahi/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/prajapati-mahi/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/prajapati-mahi/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/prajapati-mahi/LeetCode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/prajapati-mahi/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prajapati-mahi/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
