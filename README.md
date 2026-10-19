@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/prajapati-mahi/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/prajapati-mahi/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/prajapati-mahi/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2347-best-poker-hand](https://github.com/prajapati-mahi/LeetCode/tree/master/2347-best-poker-hand) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prajapati-mahi/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/prajapati-mahi/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/prajapati-mahi/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/prajapati-mahi/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2256-minimum-average-difference](https://github.com/prajapati-mahi/LeetCode/tree/master/2256-minimum-average-difference) |
+| [2347-best-poker-hand](https://github.com/prajapati-mahi/LeetCode/tree/master/2347-best-poker-hand) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/prajapati-mahi/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/prajapati-mahi/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/prajapati-mahi/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2347-best-poker-hand](https://github.com/prajapati-mahi/LeetCode/tree/master/2347-best-poker-hand) |
 | [3978-unique-middle-element](https://github.com/prajapati-mahi/LeetCode/tree/master/3978-unique-middle-element) |
 ## Simulation
 |  |
