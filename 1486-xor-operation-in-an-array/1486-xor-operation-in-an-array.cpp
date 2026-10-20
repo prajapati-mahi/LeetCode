@@ -1,0 +1,12 @@
+class Solution {
+public:
+    int xorOperation(int n, int start) {
+        int end= start + ((n-1)*2);
+        int ans=0;
+
+        for(int i= start; i<=end; i= i+2){
+            ans= ans^i;
+        }
+        return ans;
+    }
+};
