@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/prajapati-mahi/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1598-crawler-log-folder](https://github.com/prajapati-mahi/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/prajapati-mahi/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/prajapati-mahi/LeetCode/tree/master/1816-truncate-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/prajapati-mahi/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/prajapati-mahi/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
