@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/prajapati-mahi/LeetCode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/prajapati-mahi/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/prajapati-mahi/LeetCode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prajapati-mahi/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3833-count-dominant-indices](https://github.com/prajapati-mahi/LeetCode/tree/master/3833-count-dominant-indices) |
 ## Divide and Conquer
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/prajapati-mahi/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/prajapati-mahi/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/prajapati-mahi/LeetCode/tree/master/2942-find-words-containing-character) |
+| [2951-find-the-peaks](https://github.com/prajapati-mahi/LeetCode/tree/master/2951-find-the-peaks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prajapati-mahi/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/prajapati-mahi/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prajapati-mahi/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
