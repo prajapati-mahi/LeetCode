@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/prajapati-mahi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/prajapati-mahi/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/prajapati-mahi/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/prajapati-mahi/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/prajapati-mahi/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prajapati-mahi/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prajapati-mahi/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
