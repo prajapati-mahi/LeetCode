@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prajapati-mahi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/prajapati-mahi/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2733-neither-minimum-nor-maximum](https://github.com/prajapati-mahi/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/prajapati-mahi/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prajapati-mahi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/prajapati-mahi/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2810-faulty-keyboard](https://github.com/prajapati-mahi/LeetCode/tree/master/2810-faulty-keyboard) |
 | [3028-ant-on-the-boundary](https://github.com/prajapati-mahi/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prajapati-mahi/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajapati-mahi/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/prajapati-mahi/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Matrix
 |  |
 | ------- |
