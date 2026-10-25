@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prajapati-mahi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2652-sum-multiples](https://github.com/prajapati-mahi/LeetCode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/prajapati-mahi/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/prajapati-mahi/LeetCode/tree/master/3024-type-of-triangle) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/prajapati-mahi/LeetCode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/prajapati-mahi/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prajapati-mahi/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prajapati-mahi/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
