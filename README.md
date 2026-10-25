@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/prajapati-mahi/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/prajapati-mahi/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/prajapati-mahi/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/prajapati-mahi/LeetCode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/prajapati-mahi/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/prajapati-mahi/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/prajapati-mahi/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/prajapati-mahi/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
