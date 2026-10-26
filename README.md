@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/prajapati-mahi/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/prajapati-mahi/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/prajapati-mahi/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/prajapati-mahi/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/prajapati-mahi/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prajapati-mahi/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/prajapati-mahi/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/prajapati-mahi/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/prajapati-mahi/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/prajapati-mahi/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prajapati-mahi/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/prajapati-mahi/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/prajapati-mahi/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/prajapati-mahi/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/prajapati-mahi/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/prajapati-mahi/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/prajapati-mahi/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/prajapati-mahi/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/prajapati-mahi/LeetCode/tree/master/2390-removing-stars-from-a-string) |
