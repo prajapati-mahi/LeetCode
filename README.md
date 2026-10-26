@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajapati-mahi/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/prajapati-mahi/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prajapati-mahi/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2367-number-of-arithmetic-triplets](https://github.com/prajapati-mahi/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/prajapati-mahi/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/prajapati-mahi/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/prajapati-mahi/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/prajapati-mahi/LeetCode/tree/master/1952-three-divisors) |
+| [2367-number-of-arithmetic-triplets](https://github.com/prajapati-mahi/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/prajapati-mahi/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/prajapati-mahi/LeetCode/tree/master/2951-find-the-peaks) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/prajapati-mahi/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/prajapati-mahi/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2347-best-poker-hand](https://github.com/prajapati-mahi/LeetCode/tree/master/2347-best-poker-hand) |
+| [2367-number-of-arithmetic-triplets](https://github.com/prajapati-mahi/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prajapati-mahi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/prajapati-mahi/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2256-minimum-average-difference](https://github.com/prajapati-mahi/LeetCode/tree/master/2256-minimum-average-difference) |
 | [2347-best-poker-hand](https://github.com/prajapati-mahi/LeetCode/tree/master/2347-best-poker-hand) |
+| [2367-number-of-arithmetic-triplets](https://github.com/prajapati-mahi/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/prajapati-mahi/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2460-apply-operations-to-an-array) |
