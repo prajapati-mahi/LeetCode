@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/prajapati-mahi/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/prajapati-mahi/LeetCode/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/prajapati-mahi/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3099-harshad-number](https://github.com/prajapati-mahi/LeetCode/tree/master/3099-harshad-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prajapati-mahi/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prajapati-mahi/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prajapati-mahi/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
