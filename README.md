@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/prajapati-mahi/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/prajapati-mahi/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/prajapati-mahi/LeetCode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/prajapati-mahi/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/prajapati-mahi/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/prajapati-mahi/LeetCode/tree/master/2951-find-the-peaks) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/prajapati-mahi/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2256-minimum-average-difference](https://github.com/prajapati-mahi/LeetCode/tree/master/2256-minimum-average-difference) |
 | [2485-find-the-pivot-integer](https://github.com/prajapati-mahi/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/prajapati-mahi/LeetCode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3028-ant-on-the-boundary](https://github.com/prajapati-mahi/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3903-smallest-stable-index-i](https://github.com/prajapati-mahi/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
