@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-k-items-with-the-maximum-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2652-sum-multiples](https://github.com/prajapati-mahi/LeetCode/tree/master/2652-sum-multiples) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/prajapati-mahi/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2748-number-of-beautiful-pairs](https://github.com/prajapati-mahi/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/prajapati-mahi/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/prajapati-mahi/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/prajapati-mahi/LeetCode/tree/master/3024-type-of-triangle) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prajapati-mahi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/prajapati-mahi/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2748-number-of-beautiful-pairs](https://github.com/prajapati-mahi/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/prajapati-mahi/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prajapati-mahi/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/prajapati-mahi/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/prajapati-mahi/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/prajapati-mahi/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2748-number-of-beautiful-pairs](https://github.com/prajapati-mahi/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/prajapati-mahi/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/prajapati-mahi/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/prajapati-mahi/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2347-best-poker-hand](https://github.com/prajapati-mahi/LeetCode/tree/master/2347-best-poker-hand) |
+| [2748-number-of-beautiful-pairs](https://github.com/prajapati-mahi/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [3978-unique-middle-element](https://github.com/prajapati-mahi/LeetCode/tree/master/3978-unique-middle-element) |
 ## Simulation
 |  |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/prajapati-mahi/LeetCode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/prajapati-mahi/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/prajapati-mahi/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2748-number-of-beautiful-pairs](https://github.com/prajapati-mahi/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prajapati-mahi/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prajapati-mahi/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting Sort
