@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/prajapati-mahi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2652-sum-multiples](https://github.com/prajapati-mahi/LeetCode/tree/master/2652-sum-multiples) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/prajapati-mahi/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2769-find-the-maximum-achievable-number](https://github.com/prajapati-mahi/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/prajapati-mahi/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/prajapati-mahi/LeetCode/tree/master/3024-type-of-triangle) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/prajapati-mahi/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prajapati-mahi/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prajapati-mahi/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/prajapati-mahi/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/prajapati-mahi/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prajapati-mahi/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/prajapati-mahi/LeetCode/tree/master/3678-smallest-absent-positive-greater-than-average) |
