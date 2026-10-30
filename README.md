@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/prajapati-mahi/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prajapati-mahi/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/prajapati-mahi/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/prajapati-mahi/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/prajapati-mahi/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/prajapati-mahi/LeetCode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/prajapati-mahi/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/prajapati-mahi/LeetCode/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/prajapati-mahi/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/prajapati-mahi/LeetCode/tree/master/2810-faulty-keyboard) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/prajapati-mahi/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/prajapati-mahi/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/prajapati-mahi/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/prajapati-mahi/LeetCode/tree/master/3110-score-of-a-string) |
