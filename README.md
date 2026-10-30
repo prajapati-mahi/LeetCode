@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/prajapati-mahi/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3024-type-of-triangle](https://github.com/prajapati-mahi/LeetCode/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/prajapati-mahi/LeetCode/tree/master/3028-ant-on-the-boundary) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/prajapati-mahi/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prajapati-mahi/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prajapati-mahi/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/prajapati-mahi/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
