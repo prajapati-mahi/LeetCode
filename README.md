@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajapati-mahi/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/prajapati-mahi/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajapati-mahi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/prajapati-mahi/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajapati-mahi/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajapati-mahi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajapati-mahi/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/prajapati-mahi/LeetCode/tree/master/0041-first-missing-positive) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/prajapati-mahi/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/prajapati-mahi/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajapati-mahi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/prajapati-mahi/LeetCode/tree/master/0219-contains-duplicate-ii) |
